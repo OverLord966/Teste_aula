@@ -6,3 +6,4 @@ idade: int = int(input("Qual é a sua idade? "))
 print(f"Tu tens {idade} anos...")
 
 print("Olá, mundo!") ##1st
+print("tudo bem?") ##2nd
