@@ -14,3 +14,4 @@ print("nada de mais.") ##6th
 print("pronto para este verão?") ##7th
 print("Sim, estou pronto para o verão e tu?") ##8th
 print("tambem, vais à praia? Eu vou!") ##9th
+print("Tambem vou à praia, adoro o mar!") ##10th
