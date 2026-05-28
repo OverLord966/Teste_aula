@@ -12,3 +12,4 @@ print("Tambem, que se faz?") ##4ths
 print("Trabalhos e tu?") ##5th
 print("nada de mais.") ##6th
 print("pronto para este verão?") ##7th
+print("Sim, estou pronto para o verão e tu?") ##8th
