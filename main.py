@@ -7,3 +7,4 @@ print(f"Tu tens {idade} anos...")
 
 print("Olá, mundo!") ##1st
 print("tudo bem?") ##2nd
+print("Ya e ctg?") ##3rd
