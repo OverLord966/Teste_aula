@@ -10,3 +10,4 @@ print("tudo bem?") ##2nd
 print("Ya e ctg?") ##3rd
 print("Tambem, que se faz?") ##4ths
 print("Trabalhos e tu?") ##5th
+print("nada de mais.") ##6th
